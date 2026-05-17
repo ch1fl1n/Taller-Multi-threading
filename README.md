@@ -1,4 +1,4 @@
-# Taller sobre Multi-threading en Java
+# Taller Multi-threading 
 
 ## Objetivo
 
